@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chick-Fil-A Sandwich Regular",
+    "price": 8.0,
+    "imgUrl": "/images/regular.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Chick-Fil-A Sandwich Spicy",
+    "price": 8.5,
+    "imgUrl": "/images/spicy.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Diet Coke",
+    "price": 2.0,
+    "imgUrl": "/images/dietcoke.avif"
+  },
+  {
+    "id": 4,
+    "name": "Sprite",
+    "price": 2.0,
+    "imgUrl": "/images/sprite.webp"
+  },
+  {
+    "id": 5,
+    "name": "Pizza",
+    "price": 3.0,
+    "imgUrl": "/images/fresca.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "price": 2.0,
+    "imgUrl": "/images/fresca.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Carrots and Hummus",
+    "price": 2.0,
+    "imgUrl": "/images/fresca.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Chips",
+    "price": 1.0,
+    "imgUrl": "/images/fresca.jpeg"
+  }
+]
